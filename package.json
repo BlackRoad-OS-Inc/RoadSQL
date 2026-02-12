@@ -52,7 +52,6 @@
 		"clean-jsdoc-theme": "^4.2.0",
 		"eslint": "^10.0.0",
 		"globals": "^16.4.0",
-		"jsdoc": "^4.0.2",
-		"test": "^3.3.0"
+		"jsdoc": "^4.0.2"
 	}
 }
