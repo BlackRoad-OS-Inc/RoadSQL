@@ -1,3 +1,11 @@
+# RoadSQL
+
+> Road Fleet: RoadSQL — SQLite in WASM — per-agent database in browser. PROPRIETARY BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <img src="https://user-images.githubusercontent.com/552629/76405509-87025300-6388-11ea-86c9-af882abb00bd.png" width="40" height="40" />
 
 # SQLite compiled to JavaScript
